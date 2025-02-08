@@ -44,7 +44,7 @@ zda šly všechny cíle splnit.
 ## Řešení úlohy:
 
 - Jelikož nebyly stanoveny váhy pro jednotlivé cíle, byla použita Archimedeova metoda s váhou 1 pro všechny cíle.
-- Pro nalezení optimálního řešení byl použit skript [goal.py](/goal.py), který využívá knihovnu PuLP.
+- Pro nalezení optimálního řešení byl použit skript [goal.py](/2_goal.py), který využívá knihovnu PuLP.
 
 ## Výsledek:
 
